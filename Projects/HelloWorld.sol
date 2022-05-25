@@ -6,4 +6,3 @@ contract HelloWorld {
         return "HelloWorld";
     }
 }
-
