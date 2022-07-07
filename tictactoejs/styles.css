@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+  }
+  
+  .board {
+    width: 450px;
+    border: 5px solid black;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 150px;
+  }
+  
